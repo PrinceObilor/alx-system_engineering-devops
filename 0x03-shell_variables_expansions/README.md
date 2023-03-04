@@ -1,1 +1,1 @@
-shell init files
+Alias Shell and Redirection
